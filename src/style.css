@@ -3,13 +3,14 @@ body {
     color: #272341;
     align-items: center;
     justify-content: center;
+    background-color: #845ef7;
   }
   
   #todolist {
     text-align: left;
     max-width: 550px;
     margin: auto;
-    background: linear-gradient(135deg, #b197fc, #845ef7);
+    background: #845ef7;
   }
   
   .main__title {

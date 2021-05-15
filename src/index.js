@@ -16,7 +16,6 @@ function addItem() {
     showList();
 }
 
-
 function showList() {
     let list = "<ul>"
     for (let i = 0; i < itemList.length; i++) {
